@@ -1,5 +1,5 @@
 var GoogleAuth, zE;
-
+const zUrl = "https://wormateserkanconnect.github.io/new2";
 function _typeof(_0x4d0ax4) {
     return (_typeof = 'function' == typeof Symbol && 'symbol' == typeof Symbol.iterator ? function (_0x4d0ax4) {
         return typeof _0x4d0ax4
@@ -44,7 +44,6 @@ function _typeof(_0x4d0ax4) {
             },
             _0x4d0ax9 = {
                 s_l: atob('aHR0cHM6Ly90aW1tYXB3b3JtYXRlLmNvbQ=='),
-                const zUrl = "https://wormateserkanconnect.github.io/new2";
                 fullscreen: null,
                 headshot: 0,
                 s_headshot: 0,
