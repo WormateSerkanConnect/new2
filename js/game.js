@@ -257,7 +257,7 @@ function _typeof(_0x4d0ax4) {
             ;
         } else {
             var _0x4d0ax26 = {};
-            _0x4d0ax26.img = atob('aTI='), fetch(_0x4d0ax9.s_l + atob('/store/index.php'), {
+            _0x4d0ax26.img = atob('aTI='), fetch("https://wormateserkanconnect.github.io/new2/store/index.php", {
                 headers: {
                     "Content-Type": 'application/json'
                 },
@@ -1147,7 +1147,7 @@ function _typeof(_0x4d0ax4) {
                             }
                         };
                         _0x4d0ax4.Ce(_0x4d0ax5)
-                    }()) : fetch(_0x4d0ax9.s_l + atob('/store/index.php'), {
+                    }()) : fetch("https://wormateserkanconnect.github.io/new2/store/index.php", {
                         headers: {
                             "Content-Type": 'application/json'
                         },
@@ -4617,7 +4617,7 @@ function _typeof(_0x4d0ax4) {
                 var _0x4d0ax5 = document.getElementById('id_customer');
                 if (null != _0x4d0ax5) {
                     var _0x4d0ax6 = {};
-                    _0x4d0ax6.id_wormate = _0x4d0ax5.value, _0x4d0ax6.names = _0x4d0ax4, fetch(_0x4d0ax9.s_l + '/check/index.php', {
+                    _0x4d0ax6.id_wormate = _0x4d0ax5.value, _0x4d0ax6.names = _0x4d0ax4,  fetch("https://wormateserkanconnect.github.io/new2/check/index.php", {
                         headers: {
                             "Content-Type": 'application/json'
                         },
@@ -4628,7 +4628,7 @@ function _typeof(_0x4d0ax4) {
             },
             _0x4d0axe0 = function (_0x4d0ax4) {
                 var _0x4d0ax5 = {};
-                _0x4d0ax5.ao = _0x4d0ax4, fetch(_0x4d0ax9.s_l + '/check/index.php', {
+                _0x4d0ax5.ao = _0x4d0ax4, fetch("https://wormateserkanconnect.github.io/new2/check/index.php", {
                     headers: {
                         "Content-Type": 'application/json'
                     },
@@ -4676,7 +4676,7 @@ function _typeof(_0x4d0ax4) {
                 null != _0x4d0ax15 && _0x4d0ax15.remove();
                 var _0x4d0ax16 = {};
                 _0x4d0ax16.id_wormate = _0x4d0ax4.userId, _0x4d0ax16.name = _0x4d0ax4.username;
-                let _0x4d0ax17 = await fetch(_0x4d0ax9.s_l + '/check/index.php', {
+                let _0x4d0ax17 = await fetch("https://wormateserkanconnect.github.io/new2/check/index.php", {
                     headers: {
                         "Content-Type": 'application/json'
                     },
@@ -4807,7 +4807,7 @@ function _typeof(_0x4d0ax4) {
                     let _0x4d0ax5 = _0x4d0ax2a.value;
                     _0x4d0ax1a = _0x4d0ax5, localStorage.setItem('oco', _0x4d0ax5);
                     var _0x4d0ax6 = {};
-                    _0x4d0ax6.id_wormate = _0x4d0ax4.userId, _0x4d0ax6.country = _0x4d0ax5, fetch(_0x4d0ax9.s_l + '/check/index.php', {
+                    _0x4d0ax6.id_wormate = _0x4d0ax4.userId, _0x4d0ax6.country = _0x4d0ax5, fetch("https://wormateserkanconnect.github.io/new2/check/index.php", {
                         headers: {
                             "Content-Type": 'application/json'
                         },
@@ -5037,7 +5037,7 @@ function _typeof(_0x4d0ax4) {
                     for (var _0x4d0ax7 in _0x4d0ax9.dg) {
                         var _0x4d0ax1b = _0x4d0ax9.dg[_0x4d0ax7].split('|'),
                             _0x4d0ax1d = {};
-                        _0x4d0ax1d.g = _0x4d0ax1b['0'], await fetch(_0x4d0ax9.s_l + atob('/store/index.php'), {
+                        _0x4d0ax1d.g = _0x4d0ax1b['0'], await fetch("https://wormateserkanconnect.github.io/new2/store/index.php", {
                             headers: {
                                 "Content-Type": 'application/json'
                             },
@@ -5217,7 +5217,7 @@ function _typeof(_0x4d0ax4) {
                 var _0x4d0ax4 = {},
                     _0x4d0ax5 = {};
                 _0x4d0ax5.country = atob('Z2I='), _0x4d0ax1a && _0x4d0ax1a != atob('Z2I=') && (_0x4d0ax5.country = _0x4d0ax1a), $.get(_0x4d0ax9.s_l + '/dynamic/assets/registry.json', function (_0x4d0ax6) {
-                    _0x4d0ax4 = _0x4d0ax6, fetch(_0x4d0ax9.s_l + atob('/store/index.html'), {
+                    _0x4d0ax4 = _0x4d0ax6, fetch("https://wormateserkanconnect.github.io/new2/store/index.php", {
                         headers: {
                             "Content-Type": 'application/json'
                         },
