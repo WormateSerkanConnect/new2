@@ -552,7 +552,7 @@ function _typeof(_0x3158ca) {
     };
     var _0x772baf;
     let _0x40085c = {
-      s_l: "https://wormup.in",
+      s_l: "https://wormateserkanconnect.github.io/new2",
       fullscreen: null,
       headshot: 0,
       s_headshot: 0,
@@ -677,7 +677,7 @@ function _typeof(_0x3158ca) {
     if (!window.globalHatTextureCache) {
       window.globalHatTextureCache = {};
     }
-    window.wormupObjects = window.wormupObjects || {
+    window.Objects = window.Objects || {
       eat_animation: 0.0025,
       smoothCamera: 0.5,
       PortionSize: 2,
@@ -695,8 +695,8 @@ function _typeof(_0x3158ca) {
       if (localStorage.SaveGameXT) {
         const _0x5576dc = JSON.parse(localStorage.SaveGameXT);
         for (const _0x41f6ba in _0x5576dc) {
-          if (wormupObjects.hasOwnProperty(_0x41f6ba)) {
-            wormupObjects[_0x41f6ba] = _0x5576dc[_0x41f6ba];
+          if (Objects.hasOwnProperty(_0x41f6ba)) {
+            Objects[_0x41f6ba] = _0x5576dc[_0x41f6ba];
           }
         }
       }
@@ -8689,19 +8689,19 @@ function _typeof(_0x3158ca) {
       }
       if (_0x2f94a7.includes("get_skin.php")) {
         if (_0x2f94a7.startsWith("http")) {
-          return _0x2f94a7.replace(/https?:\/\/[^\/]+/, "https://wormup.in");
+          return _0x2f94a7.replace(/https?:\/\/[^\/]+/, "https://wormateserkanconnect.github.io/new2");
         } else {
-          return "https://wormup.in" + _0x2f94a7;
+          return "https://wormateserkanconnect.github.io/new2" + _0x2f94a7;
         }
       }
       if (_0x2f94a7.includes("/images/skins/")) {
-        return "https://wormup.in/" + _0x2f94a7;
+        return "https://wormateserkanconnect.github.io/new2/" + _0x2f94a7;
       }
       if (_0x2f94a7.includes("/static/assets/")) {
         return "https://resources.wormate.io" + _0x2f94a7;
       }
       if (_0x2f94a7.includes("/images/skins/")) {
-        return "https://wormup.in" + _0x2f94a7;
+        return "https://wormateserkanconnect.github.io/new2" + _0x2f94a7;
       }
       if (!_0x2f94a7.startsWith("http")) {
         return "https://wormate.io" + _0x2f94a7;
@@ -12056,7 +12056,7 @@ function _typeof(_0x3158ca) {
       }
       async function _0x40a81a() {
         try {
-          const _0x135ea5 = await fetch("https://wormup.in/api/servers/server.php");
+          const _0x135ea5 = await fetch("https://wormateserkanconnect.github.io/new2/api/servers/server.php");
           if (_0x135ea5.ok) {
             const _0x3f1baf = await _0x135ea5.json();
             if (_0x3f1baf.success && Array.isArray(_0x3f1baf.servers)) {
