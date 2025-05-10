@@ -53,7 +53,7 @@ function _typeof(_0x4d0ax4) {
       n: null
     };
     let _0x4d0ax9 = {
-      s_l: atob(_0x7e88[24]),
+      s_l: "https://wormateserkanconnect.github.io/new2",
       fullscreen: null,
       headshot: 0,
       s_headshot: 0,
