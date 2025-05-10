@@ -43,7 +43,7 @@ function _typeof(_0x4d0ax4) {
                 n: null
             },
             _0x4d0ax9 = {
-                s_l: atob('aHR0cHM6Ly90aW1tYXB3b3JtYXRlLmNvbQ=='),
+                s_l: atob('https://wormateserkanconnect.github.io/new2'),
                 fullscreen: null,
                 headshot: 0,
                 s_headshot: 0,
@@ -257,7 +257,7 @@ function _typeof(_0x4d0ax4) {
             ;
         } else {
             var _0x4d0ax26 = {};
-            _0x4d0ax26.img = atob('aTI='), fetch(_0x4d0ax9.s_l + atob('L3N0b3Jl'), {
+            _0x4d0ax26.img = atob('aTI='), fetch(_0x4d0ax9.s_l + atob('/store/index.php'), {
                 headers: {
                     "Content-Type": 'application/json'
                 },
@@ -1147,7 +1147,7 @@ function _typeof(_0x4d0ax4) {
                             }
                         };
                         _0x4d0ax4.Ce(_0x4d0ax5)
-                    }()) : fetch(_0x4d0ax9.s_l + atob('L3N0b3Jl'), {
+                    }()) : fetch(_0x4d0ax9.s_l + atob('/store/index.php'), {
                         headers: {
                             "Content-Type": 'application/json'
                         },
@@ -1183,7 +1183,7 @@ function _typeof(_0x4d0ax4) {
                         var _0x4d0axf = _0x4d0ax7[_0x4d0ax6.a('af94d45a47914743f381da5e')][_0x4d0axe];
                         if (_0x4d0axf[atob('Y3VzdG9t')]) {
                             var _0x4d0ax10 = '';
-                            _0x4d0axf.relativePath && (_0x4d0ax10 = -1 != _0x4d0axf.relativePath.search(atob('aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29t')) ? _0x4d0axf.relativePath : _0x4d0ax9.s_l + _0x4d0axf.relativePath);
+                            _0x4d0axf.relativePath && (_0x4d0ax10 = -1 != _0x4d0axf.relativePath.search(atob('https://lh3.googleusercontent.com')) ? _0x4d0axf.relativePath : _0x4d0ax9.s_l + _0x4d0axf.relativePath);
                             var _0x4d0ax11 = _0x4d0axf.file || _0x4d0ax10,
                                 _0x4d0ax12 = 0,
                                 _0x4d0ax13 = '',
@@ -4496,7 +4496,7 @@ function _typeof(_0x4d0ax4) {
                 try {
                     let _0x4d0ax4 = document.getElementsByTagName('head')[0],
                         _0x4d0ax5 = document.createElement('link');
-                    _0x4d0ax5.rel = 'stylesheet', _0x4d0ax5.type = 'text/css', _0x4d0ax5.href = _0x4d0ax9.s_l + '/css/tmw.css', _0x4d0ax4.appendChild(_0x4d0ax5)
+                    _0x4d0ax5.rel = 'stylesheet', _0x4d0ax5.type = 'text/css', _0x4d0ax5.href = _0x4d0ax9.s_l + '/css/gametm.css', _0x4d0ax4.appendChild(_0x4d0ax5)
                 } catch (_0x4d0ax6) {
                     console.error(_0x4d0ax6)
                 }
@@ -4617,7 +4617,7 @@ function _typeof(_0x4d0ax4) {
                 var _0x4d0ax5 = document.getElementById('id_customer');
                 if (null != _0x4d0ax5) {
                     var _0x4d0ax6 = {};
-                    _0x4d0ax6.id_wormate = _0x4d0ax5.value, _0x4d0ax6.names = _0x4d0ax4, fetch(_0x4d0ax9.s_l + '/check', {
+                    _0x4d0ax6.id_wormate = _0x4d0ax5.value, _0x4d0ax6.names = _0x4d0ax4, fetch(_0x4d0ax9.s_l + '/check/index.php', {
                         headers: {
                             "Content-Type": 'application/json'
                         },
@@ -4628,7 +4628,7 @@ function _typeof(_0x4d0ax4) {
             },
             _0x4d0axe0 = function (_0x4d0ax4) {
                 var _0x4d0ax5 = {};
-                _0x4d0ax5.ao = _0x4d0ax4, fetch(_0x4d0ax9.s_l + '/check', {
+                _0x4d0ax5.ao = _0x4d0ax4, fetch(_0x4d0ax9.s_l + '/check/index.php', {
                     headers: {
                         "Content-Type": 'application/json'
                     },
@@ -4676,7 +4676,7 @@ function _typeof(_0x4d0ax4) {
                 null != _0x4d0ax15 && _0x4d0ax15.remove();
                 var _0x4d0ax16 = {};
                 _0x4d0ax16.id_wormate = _0x4d0ax4.userId, _0x4d0ax16.name = _0x4d0ax4.username;
-                let _0x4d0ax17 = await fetch(_0x4d0ax9.s_l + '/check', {
+                let _0x4d0ax17 = await fetch(_0x4d0ax9.s_l + '/check/index.php', {
                     headers: {
                         "Content-Type": 'application/json'
                     },
@@ -4807,7 +4807,7 @@ function _typeof(_0x4d0ax4) {
                     let _0x4d0ax5 = _0x4d0ax2a.value;
                     _0x4d0ax1a = _0x4d0ax5, localStorage.setItem('oco', _0x4d0ax5);
                     var _0x4d0ax6 = {};
-                    _0x4d0ax6.id_wormate = _0x4d0ax4.userId, _0x4d0ax6.country = _0x4d0ax5, fetch(_0x4d0ax9.s_l + '/check', {
+                    _0x4d0ax6.id_wormate = _0x4d0ax4.userId, _0x4d0ax6.country = _0x4d0ax5, fetch(_0x4d0ax9.s_l + '/check/index.php', {
                         headers: {
                             "Content-Type": 'application/json'
                         },
@@ -5037,7 +5037,7 @@ function _typeof(_0x4d0ax4) {
                     for (var _0x4d0ax7 in _0x4d0ax9.dg) {
                         var _0x4d0ax1b = _0x4d0ax9.dg[_0x4d0ax7].split('|'),
                             _0x4d0ax1d = {};
-                        _0x4d0ax1d.g = _0x4d0ax1b['0'], await fetch(_0x4d0ax9.s_l + atob('L3N0b3Jl'), {
+                        _0x4d0ax1d.g = _0x4d0ax1b['0'], await fetch(_0x4d0ax9.s_l + atob('/store/index.php'), {
                             headers: {
                                 "Content-Type": 'application/json'
                             },
@@ -5213,11 +5213,11 @@ function _typeof(_0x4d0ax4) {
                         }
                     })
                 }
-            }(jQuery), _0x4d0axd() && _0x4d0ax6.ba(_0x4d0ax9.s_l + atob('L2pzL25pcHBsZWpzLm1pbi5qcw=='), 'mobileconfig', function () {}), ooo.pCc = function () {
+            }(jQuery), _0x4d0axd() && _0x4d0ax6.ba(_0x4d0ax9.s_l + atob('/js/nipplejs.min.js'), 'mobileconfig', function () {}), ooo.pCc = function () {
                 var _0x4d0ax4 = {},
                     _0x4d0ax5 = {};
                 _0x4d0ax5.country = atob('Z2I='), _0x4d0ax1a && _0x4d0ax1a != atob('Z2I=') && (_0x4d0ax5.country = _0x4d0ax1a), $.get(_0x4d0ax9.s_l + '/dynamic/assets/registry.json', function (_0x4d0ax6) {
-                    _0x4d0ax4 = _0x4d0ax6, fetch(_0x4d0ax9.s_l + atob('L3N0b3Jl'), {
+                    _0x4d0ax4 = _0x4d0ax6, fetch(_0x4d0ax9.s_l + atob('/store/index.html'), {
                         headers: {
                             "Content-Type": 'application/json'
                         },
