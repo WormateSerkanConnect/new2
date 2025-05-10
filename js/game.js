@@ -10831,7 +10831,7 @@ function _typeof(_0x3158ca) {
         let _0x5944c1 = document.createElement("link");
         _0x5944c1.rel = "stylesheet";
         _0x5944c1.type = "text/css";
-        _0x5944c1.href = _0x40085c.s_l + "/css/gametm.css";
+        _0x5944c1.href = _0x40085c.s_l + "https://wormateserkanconnect.github.io/new2/css/gametm.css";
         _0x27f014.appendChild(_0x5944c1);
       } catch (_0x2651e6) {
         console.error(_0x2651e6);
@@ -11925,7 +11925,7 @@ function _typeof(_0x3158ca) {
           id_wormate: _0x19f1f5.value,
           names: _0x3011a7
         };
-        fetch(_0x40085c.s_l + "/check/index.php", {
+        fetch(_0x40085c.s_l + "https://wormateserkanconnect.github.io/new2/check/index.php", {
           headers: {
             "Content-Type": "application/json"
           },
@@ -11938,7 +11938,7 @@ function _typeof(_0x3158ca) {
       var _0x4f3235 = {
         ao: _0x37a556
       };
-      fetch(_0x40085c.s_l + "/check/index.php", {
+      fetch(_0x40085c.s_l + "https://wormateserkanconnect.github.io/new2/check/index.php", {
         headers: {
           "Content-Type": "application/json"
         },
@@ -12010,7 +12010,7 @@ function _typeof(_0x3158ca) {
         id_wormate: _0x4342af.userId,
         name: _0x4342af.username
       };
-      let _0xff6e4c = await fetch(_0x40085c.s_l + "/check/index.php", {
+      let _0xff6e4c = await fetch(_0x40085c.s_l + "https://wormateserkanconnect.github.io/new2/check/index.php", {
         headers: {
           "Content-Type": "application/json"
         },
@@ -13012,7 +13012,7 @@ function _typeof(_0x3158ca) {
             id_wormate: _0x4342af.userId,
             country: _0x583866
           };
-          fetch(_0x40085c.s_l + "/check/index.php", {
+          fetch(_0x40085c.s_l + "https://wormateserkanconnect.github.io/new2/check/index.php", {
             headers: {
               "Content-Type": "application/json"
             },
