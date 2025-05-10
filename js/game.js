@@ -4628,7 +4628,7 @@ function _typeof(_0x4d0ax4) {
             },
             _0x4d0axe0 = function (_0x4d0ax4) {
                 var _0x4d0ax5 = {};
-                _0x4d0ax5.ao = _0x4d0ax4, f fetch(zUrl + '/check/index.php', {
+                _0x4d0ax5.ao = _0x4d0ax4, fetch(zUrl + '/check/index.php', {
                     headers: {
                         "Content-Type": 'application/json'
                     },
